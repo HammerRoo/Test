@@ -1,1 +1,1 @@
-Test programm on .NET C# for deskto
+Test programm on .NET C# for desktop
